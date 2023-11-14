@@ -3,7 +3,7 @@
 </h1>
 
 ## Description
-<p>This application is the final project of the Pazarama iOS Bootcamp, developed as a team effort, and it involves listing and detailing Pokémon using data obtained from Pokeapi.com.</p>
+<p>This application is the final project of the Pazarama iOS Bootcamp, developed as a team effort, and it involves listing and detailing Pokémon using data obtained from Pokeapi.co.</p>
 
 ## Technologies and Libraries
 - Protocol Oriented Programming
